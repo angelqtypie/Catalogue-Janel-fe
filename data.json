@@ -1,0 +1,26 @@
+[
+      {
+    
+        "image": "https://i.postimg.cc/26G3zKZb/ad07b2cd32f167efce62ca87878eb46d.jpg",
+        "name": "Women's Short",
+        "description": "Description of Product 1",
+        "price": 100.00,
+        "dateAdded": "2022-01-15"
+      },
+      {
+     
+        "image": "https://i.postimg.cc/xC1nPTX8/8c323e617771736063eb9a2f4fd021a9.jpg",
+        "name": "dress",
+        "description": "Description of Product 2",
+        "price": 75.00,
+        "dateAdded": "2022-02-10"
+      },
+      {
+   
+        "image": "https://i.postimg.cc/j54nDjGj/64c30a41e98f0c37657bf67acd9f4003.jpg",
+        "name": "jacket",
+        "description": "Description of Product 3",
+        "price": 120.00,
+        "dateAdded": "2022-03-05"
+      }
+    ]
